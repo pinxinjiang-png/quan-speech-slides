@@ -317,6 +317,23 @@ H1 supported, H2 partially supported.
 
 - Other interactions (Sex × Stroke, Hypertension × Stroke) also not significant.  
 
+---
+
+# Variance Inflation Factors (VIFs)
+
+Were computed for all predictors in the full model.
+\ 
+
+
+All VIF values fell between 1.02 and 1.34, far below the commonly used thresholds of 5 or 10.
+\ 
+
+
+This confirms that multicollinearity is negligible and does not affect coefficient estimation or interpretation.
+
+
+<img src="Figure6.png" style="width:50%; height:500px;">
+
 
 ---
 
